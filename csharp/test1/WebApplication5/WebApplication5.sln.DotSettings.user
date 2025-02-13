@@ -1,4 +1,34 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodWrapper_002Ecs_002Fl_003AC_0021_003FUsers_003F_C774_B300_C6D0_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F497e7c0354334ae6b2579b219192bcf04a000_003Fbe_003F258242f4_003FMethodWrapper_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AReflect_002Ecs_002Fl_003AC_0021_003FUsers_003F_C774_B300_C6D0_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F497e7c0354334ae6b2579b219192bcf04a000_003F80_003F769d9045_003FReflect_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="D:\dev\repos\study\csharp\test1\WebApplication5\packages\Microsoft.AspNet.WebApi.Core.5.3.0\lib\net45\System.Web.Http.dll" /&gt;&#xD;
-&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=B5C44C24_002D0899_002D4680_002DA6F6_002D522FE7D706C4/@EntryIndexedValue">49120EE8-4A6B-49C1-9BBA-7054B6F55FE7</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=NUnit3x/@EntryIndexedValue">db4927dd-2e12-48a7-9a84-2b7e3e31b9c8</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5927d38e_002D7aed_002D41c6_002Da632_002Dcdbbfe467972/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileSystemWatcherTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6a860e3_002D4999_002D4bd1_002D9db8_002Db5281a693e9e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileSystemWatcherTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d6d8a733_002D6111_002D41f0_002D9d87_002Ddbbacfd2d0e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FileSystemWatcherTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.DBTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3c54c7a_002D705e_002D434b_002Da6cc_002Dbddfa0096246/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileSystemWatcherTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
