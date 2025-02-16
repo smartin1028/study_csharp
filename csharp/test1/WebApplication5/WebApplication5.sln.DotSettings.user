@@ -8,29 +8,8 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=NUnit3x/@EntryIndexedValue">db4927dd-2e12-48a7-9a84-2b7e3e31b9c8</s:String>
 	
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5927d38e_002D7aed_002D41c6_002Da632_002Dcdbbfe467972/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileSystemWatcherTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6a860e3_002D4999_002D4bd1_002D9db8_002Db5281a693e9e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileSystemWatcherTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d6d8a733_002D6111_002D41f0_002D9d87_002Ddbbacfd2d0e2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileSystemWatcherTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Tests.Test2&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Tests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.DBTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.UserServiceTest.UserTest01&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3c54c7a_002D705e_002D434b_002Da6cc_002Dbddfa0096246/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FileSystemWatcherTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.MyFileWatcherTest.FileSystemWatcherTest&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::49120EE8-4A6B-49C1-9BBA-7054B6F55FE7::.NETFramework,Version=v4.6.1::TestProject1.Services.UserServiceTest.UserTest01&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+	
+	
+	
+	</wpf:ResourceDictionary>

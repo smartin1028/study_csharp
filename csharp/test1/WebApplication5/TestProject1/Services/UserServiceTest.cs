@@ -11,7 +11,7 @@ namespace TestProject1.Services
         [Test]
         public void UserTest01()
         {
-            Console.WriteLine("test");
+            Console.WriteLine("UserTest01 Test run");
 
             // 목 객체 생성
             var mockRepo = new Mock<IUserRepository>();
@@ -24,7 +24,8 @@ namespace TestProject1.Services
             var userRepo = mockRepo.Object;
             var user = userRepo.GetById(1);
             
-            Assert.AreEqual(user.Id, 2);
+            Assert.AreEqual(user.Id, 1);
+            Assert.AreEqual(user.Name, "Test User");
         }
     }
 }
