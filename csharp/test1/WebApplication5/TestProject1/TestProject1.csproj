@@ -34,17 +34,24 @@
         <WarningLevel>4</WarningLevel>
     </PropertyGroup>
     <ItemGroup>
+        <Reference Include="Castle.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+          <HintPath>..\packages\Castle.Core.4.4.1\lib\net45\Castle.Core.dll</HintPath>
+        </Reference>
         <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
           <HintPath>..\packages\Dapper.2.1.66\lib\net461\Dapper.dll</HintPath>
         </Reference>
         <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=9.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
           <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.9.0.1\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
         </Reference>
+        <Reference Include="Moq, Version=4.17.0.0, Culture=neutral, PublicKeyToken=69f491c39445e920, processorArchitecture=MSIL">
+          <HintPath>..\packages\Moq.4.17.2\lib\net45\Moq.dll</HintPath>
+        </Reference>
         <Reference Include="mscorlib" />
         <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
           <HintPath>..\packages\Oracle.ManagedDataAccess.12.1.021\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
         </Reference>
         <Reference Include="System"/>
+        <Reference Include="System.Configuration" />
         <Reference Include="System.Core"/>
         <Reference Include="System.Data"/>
         <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
@@ -62,6 +69,9 @@
         <Compile Include="Services\MyFileWatcherTest.cs" />
         <Compile Include="Properties\AssemblyInfo.cs"/>
         <Compile Include="Services\DBTest.cs" />
+        <Compile Include="Services\UserServiceTest.cs" />
+        <Compile Include="unitTest\IUserRepository.cs" />
+        <Compile Include="unitTest\User.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\WebApplication5\WebApplication5.csproj">
